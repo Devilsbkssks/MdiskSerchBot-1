@@ -22,9 +22,7 @@ class Config(object):
     START_PHOTO = os.getenv("START_PHOTO", "https://telegra.ph/file/5fb09a22f90bd5eea1642.jpg")
     HOME_TEXT = os.getenv("HOME_TEXT", "Road" )
     UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001767857004")
-    DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://W9Uyj61afEXSw601:W9Uyj61afEXSw601@cluster0.zsxso.mongodb.net/?retryWrites=true&w=majority
-
-")
+    DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://W9Uyj61afEXSw601:W9Uyj61afEXSw601@cluster0.zsxso.mongodb.net/?retryWrites=true&w=majority")
     LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001529577466"))
     RESULTS_COUNT = int(os.getenv("RESULTS_COUNT", 20))
     BROADCAST_AS_COPY = os.getenv("BROADCAST_AS_COPY", "True")
