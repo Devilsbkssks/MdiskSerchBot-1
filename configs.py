@@ -14,7 +14,7 @@ class Config(object):
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "BQBUiK8_23AiLBM7skYoQe9reYcvUXjGvYYHB7II8PU0R52nQ2jPmjmKLFl-_hKDa0Ojb3oJdedCbj_wu2ej7zk-midZ8xR7cz8AFfeZZ2D1sY1AAskkrPqsGCXhGJKd3T_x0kKMYO3J1LRXr8pubTo1jdGRFAaiO_nMWRy8Wh_Xiy-lg5OYl6Rs8ZYIOMNA-xSEVU8p_dZRrR9W_tfUwUUNw_yO1beLiAKHfpAMMyDxEKuqGt3xLhhKo4-cOqF7NL11zLKxoYVblMIKx-TCNCUUNKteGPOZ_mFJa4Ihwp_U2S3i-u3d0ioEyHx4gBDkVg8z0QRwW1FgPXTNVahldS8pAAAAATA9VkIA")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001631279048"))
     BOT_USERNAME = os.getenv("BOT_USERNAME", "Mdisk_search_re_bot")
-    BOT_OWNER = int(os.getenv("BOT_OWNER", "King"))
+    BOT_OWNER = int(os.getenv("BOT_OWNER", "5104293442"))
     OWNER_USERNAME = os.getenv("OWNER_USERNAME", "tlgbotsowner")
     BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "-1001767857004")
     GROUP_USERNAME = os.getenv("GROUP_USERNAME", "")
