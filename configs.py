@@ -8,7 +8,7 @@ class Config(object):
     API_ID = int(os.getenv("API_ID", "15823382"))
     API_HASH = os.getenv("API_HASH", "016d5e115a06ddfb6121823d72ae4d8c")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5580813031:AAEyAVNcJoK5HMy45c9Q-Hk13Tfqg7O5p3U")
-    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "MdiskSearchRobot")
+    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "Mditlgdirectt")
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOHwBuzZ2178Z98-aO_77exJuTW4ZPJmThCkxmy2tm7bgVRaGbtrCyJ8eiibPYeIuNCMQAKXjPW_PCVve8-scZzwnk_D8icHtIczQ6IWgTbfuLub4ETgkl459WQLLcKnAZs-CT--A8N2Jj5pnXGFRuB9CF90domuE00aQByslwcRQZ1wITN1ycZww0fo2lZ6hFgv4Rq0p0EdqWqyEMbl6Qag94x-YUVoXwg5RCX-6CaHqvMDgQuZuwkVxOv1x9nz7aPuCewA7hbnjTl_3fXs8VNhEAGKXx5xKDen8Zt0KyJaLwx4lwTtzUS1TBi-MnvME1mGKTK7IhAj9OTxILadUs5AgupY=")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001631279048"))
     BOT_USERNAME = os.getenv("BOT_USERNAME", "tlgdirectmovies_bot")
